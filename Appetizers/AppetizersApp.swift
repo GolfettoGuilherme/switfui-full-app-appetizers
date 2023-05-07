@@ -12,6 +12,6 @@ struct AppetizersApp: App {
     var body: some Scene {
         WindowGroup {
             AppertizerTabView()
-        }
+        } 
     }
 }
